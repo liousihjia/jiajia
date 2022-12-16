@@ -10,7 +10,7 @@
 *.json
 *.tsv
 *.csv
-*.jar
+
 
 .classpath
 .project
@@ -20,6 +20,12 @@ target/
 build/
 .gradle/
 out/
+gradle/.tmp/
+gradle/caches/
+gradle/daemon/
+gradle/jdks/
+gradle/native/
+gradle/wrapper/dists/
 
 .idea/
 *.iml
