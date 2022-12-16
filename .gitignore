@@ -10,7 +10,7 @@
 *.json
 *.tsv
 *.csv
-
+*.jar
 
 .classpath
 .project
