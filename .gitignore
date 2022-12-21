@@ -11,6 +11,7 @@
 *.tsv
 *.csv
 *.jar
+*.class
 
 .classpath
 .project
