@@ -1,16 +1,8 @@
 plugins {
-	id 'java'
+    id 'java'
 }
 
-group = 'com.jiajia'
-version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '17'
+group 'JiaJia'
+version '1.0.0'
 
-repositories {
-	mavenCentral()
-}
-
-
-tasks.named('test') {
-	useJUnitPlatform()
-}
+sourceCompatibility = '19'
