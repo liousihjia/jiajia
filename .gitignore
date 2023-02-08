@@ -32,3 +32,4 @@ gradle/wrapper/dists/
 *.iml
 
 build/libs/jiajia-0.0.1-SNAPSHOT.jar
+JiaJupyter/.ipynb_checkpoints/fip-checkpoint.ipynb
